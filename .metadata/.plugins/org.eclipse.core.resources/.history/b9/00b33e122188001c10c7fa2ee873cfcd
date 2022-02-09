@@ -1,0 +1,63 @@
+package study.DAO;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import study.MyRepository;
+import study.entity.ProductEntity;
+
+@Service
+public class ProductDAO {
+
+	@Autowired
+	MyRepository rs;
+
+	public void addProduct(ProductEntity obj) {
+		
+		rs.save(obj);
+		
+	}
+
+	public List<ProductEntity> getAll() {
+
+		return rs.findAll();
+		
+	}
+
+	/*
+	 * public void update(int id, String name) {
+	 * 
+	 * ProductEntity obj = rs.findById(id).get(); obj.setProdName(name);
+	 * rs.save(obj);
+	 * 
+	 * }
+	 */
+
+	public void deleteProduct(int id) {
+
+		ProductEntity obj = rs.findById(id).get();
+		if(obj!=null)
+		{
+			rs.delete(obj);
+		}
+		
+	}
+
+	public void update(ProductEntity obj) {
+		
+		ProductEntity newObj = rs.findById(obj.getProdId()).get();
+		if(newObj!=null)
+		{
+			newObj.setProdName(obj.getProdName());
+			newObj.setProdDesc(obj.getProdDesc());
+			newObj.setProdCost(obj.getProdCost());
+			newObj.setExpiryDate(obj.getExpiryDate());
+		}
+		rs.save(newObj);
+	}
+	
+	
+	
+}

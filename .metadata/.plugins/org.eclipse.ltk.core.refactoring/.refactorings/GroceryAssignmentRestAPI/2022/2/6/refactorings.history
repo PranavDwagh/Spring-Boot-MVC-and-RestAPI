@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GroceryAssignmentRestAPI/src/main/resources/static/js.html&apos; to &apos;jq.html&apos;" description="Rename resource &apos;js.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/static/js.html" name="jq.html" stamp="1643725334512" updateReferences="true"/>
+</session>

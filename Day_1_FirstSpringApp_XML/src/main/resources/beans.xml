@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+   <bean class="day_1_beans.MessageBeans" id="first"  scope="prototype">
+   <property name="message"  value="Hello from message prototype "></property>
+   <property name="sender"  value="Sender : prototype msg"></property>
+   <property name="contactDetail"  ref="contact" />
+   </bean>
+   
+   <bean class = "day_1_beans.MessageBeans" id= "second" scope="singleton">
+   <property name = "message" value="this is Message from MessageBeans!!"></property>
+   <property name = "sender" value="this msg is send by pranav!!"></property>
+   <property name="contactDetail" ref="contact"></property>
+    </bean>
+	
+	<bean class= "day_1_beans.ContactDetail" id="contact">
+	<property name="phoneNumber" value ="8552968489"></property>	
+	<property name="email" value ="waghPranav222@gmail.com" ></property>
+	<property name="address" ref="address"></property>
+	</bean>
+	
+	<bean class="day_1_beans.Address" id="address">
+	<property name="area" value="warkhed"></property>
+	<property name="city" value="aurangabad"></property>
+	<property name="country" value="india"></property>
+	<property name="pin" value="431109"></property>
+	</bean>
+	
+	
+	
+</beans>

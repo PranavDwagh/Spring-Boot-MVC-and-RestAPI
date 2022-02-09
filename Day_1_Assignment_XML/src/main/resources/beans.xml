@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+   
+  
+  <bean class="xmlBeans.CardBean" id="card" scope="prototype">
+  <property name="aadhar" value="968578506841"></property>
+  <property name="pan" value="AGPPW8311D"></property>
+  </bean>
+  
+  <bean class="xmlBeans.PersonBeans" id="person" scope="prototype">
+  <property name="name" value="pranav"></property>  
+  </bean>
+  
+  <bean class= "xmlBeans.AddressBean" id="address" scope="singleton">
+  <property name="area" value="warkhed"></property>
+  <property name="city" value="aurangabad"></property>
+  </bean>
+	
+	
+	
+</beans>

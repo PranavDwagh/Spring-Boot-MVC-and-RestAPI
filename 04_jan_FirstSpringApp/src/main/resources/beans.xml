@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+   <bean class="study.beans.MessageBean" id="first"  scope="prototype">
+   <property name="message"  value="Hello from spring "></property>
+   <property name="sender"  value="prachi"></property>
+   <property name="contactDetails"  ref="contact" />
+   </bean>
+   
+    <bean class="study.beans.MessageBean"   id="singletonEx">
+   <property name="message"  value="SOLVE The Assignements "></property>
+   <property name="sender"  value="srinivas"></property>
+   <property name="contactDetails"  ref="contact" />
+   </bean>
+
+ <bean class="study.beans.ContactDetails" id="contact">
+   <property name="phoneNumber"  value="1234567899 "></property>
+   <property name="email"  value="prachi@gmail"></property>
+   <property name="address"  ref = "address"  />
+   </bean>
+
+<bean class="study.beans.AddressBean"   id="address">
+   <property name="area"  value="kothrud"></property>
+   <property name="city"  value="pune"></property>
+   </bean>
+
+
+</beans>

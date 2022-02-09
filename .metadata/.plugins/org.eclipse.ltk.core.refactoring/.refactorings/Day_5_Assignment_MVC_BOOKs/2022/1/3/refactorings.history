@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;deleteMsg.jsp&apos; to &apos;view&apos;&#x0D;&#x0A;- Original project: &apos;Day_5_Assignment_MVC_BOOKs&apos;&#x0D;&#x0A;- Destination element: &apos;view&apos;&#x0D;&#x0A;- Original element: &apos;deleteMsg.jsp&apos;" description="Copy file" element1="src/main/webapp/WEB-INF/view/deleteMsg.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1641874570670" target="/Question2/src/main/webapp/WEB-INF/view" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.js"></script>
+    <script>
+        $(document).ready(()=>{
+            $("#b1").click(()=>{
+                $.ajax({
+                    url:'/grocery/getAll',
+                    type:"GET",
+                    success:function(data)
+                    {
+                        var obj = JSON.stringify(data)
+                        $("#dis").text(obj);
+                    }
+
+                })
+            })
+        })        
+    </script>
+
+</head>
+<body>
+    <button id="b1">Get All Books</button>
+    <span id="dis"></span>
+</body>
+</html>

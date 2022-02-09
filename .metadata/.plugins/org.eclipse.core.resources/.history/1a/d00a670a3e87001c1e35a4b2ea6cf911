@@ -1,0 +1,14 @@
+package study.DAO;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import study.MyRepository;
+
+public class ProductDAO {
+
+	@Autowired
+	MyRepository rs;
+	
+	
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GroceryAssignmentMVCController/src/main/webapp/WEB-INF/view/disaplaysingle.jsp&apos; to &apos;displaysingle.jsp&apos;" description="Rename resource &apos;disaplaysingle.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/view/disaplaysingle.jsp" name="displaysingle.jsp" stamp="1641742063780" updateReferences="true"/>
+</session>

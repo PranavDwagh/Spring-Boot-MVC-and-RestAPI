@@ -1,0 +1,29 @@
+package study.entity;
+
+import java.sql.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Entity(name="Product")
+public class ProductEntity {
+	
+	@Id
+	@GeneratedValue
+	@Column(name="prodId")
+	private int prodId;
+	
+	@Column(name="prodName")
+	private String prodName;
+	@Column(name="prodDesc")
+	private String prodDesc;
+	@Column(name="prodCost")
+	private String prodCost;
+	@Column(name="expiryDate")
+	private Date expiryDate;
+	
+	
+
+}

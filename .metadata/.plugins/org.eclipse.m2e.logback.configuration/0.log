@@ -23143,3 +23143,117 @@ java.net.URISyntaxException: Illegal character in path at index 27: file:/D:/Sof
 2022-02-07 20:19:34,509 [Worker-82: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-02-07 20:19:34,510 [Worker-82: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-02-07 20:19:34,510 [Worker-82: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-10 13:32:57,634 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-12 18:19:32,132 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-12 18:55:57,438 [Worker-2: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 18:55:57,442 [Worker-2: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 18:55:57,445 [Worker-2: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 18:55:57,459 [Worker-2: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 18:55:57,464 [Worker-2: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 18:55:57,464 [Worker-2: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 18:55:57,464 [Worker-2: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 18:57:38,899 [Worker-21: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 18:57:38,900 [Worker-21: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 18:57:38,903 [Worker-21: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 18:57:38,903 [Worker-21: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 18:57:38,906 [Worker-21: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 18:57:38,907 [Worker-21: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 18:57:38,907 [Worker-21: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 18:59:28,101 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 18:59:28,102 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 18:59:28,102 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 18:59:28,102 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 18:59:28,106 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 18:59:28,106 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 18:59:28,106 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:00:46,203 [Worker-24: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:00:46,203 [Worker-24: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:00:46,203 [Worker-24: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:00:46,203 [Worker-24: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:00:46,206 [Worker-24: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:00:46,206 [Worker-24: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:00:46,206 [Worker-24: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:01:37,182 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:01:37,182 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:01:37,182 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:01:37,182 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:01:37,185 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:01:37,185 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:01:37,185 [Worker-25: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:14:33,427 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:14:33,428 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:14:33,428 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:14:33,428 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:14:33,432 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:14:33,432 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:14:33,433 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:15:23,648 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:15:23,648 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:15:23,648 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:15:23,649 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:15:23,652 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:15:23,652 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:15:23,652 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:16:35,284 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:16:35,284 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:16:35,285 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:16:35,285 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:16:35,290 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:16:35,290 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:16:35,290 [Worker-28: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:23:41,160 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:23:41,160 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:23:41,160 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:23:41,161 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:23:41,165 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:23:41,165 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:23:41,165 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:26:21,204 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:26:21,204 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:26:21,205 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:26:21,205 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:26:21,208 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:26:21,208 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:26:21,208 [Worker-31: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:27:33,519 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:27:33,519 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:27:33,519 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:27:33,519 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:27:33,523 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:27:33,523 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:27:33,523 [Worker-23: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:28:31,910 [Worker-30: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:28:31,910 [Worker-30: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:28:31,910 [Worker-30: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:28:31,910 [Worker-30: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:28:31,914 [Worker-30: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:28:31,914 [Worker-30: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:28:31,914 [Worker-30: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:31:00,548 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:31:00,548 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:31:00,548 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:31:00,548 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:31:00,552 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:31:00,552 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:31:00,552 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:31:37,390 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:31:37,390 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:31:37,391 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:31:37,391 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:31:37,394 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:31:37,394 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:31:37,394 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:32:37,774 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:32:37,774 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:32:37,774 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:32:37,774 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:32:37,778 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:32:37,778 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:32:37,778 [Worker-32: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources
+2022-02-12 19:35:34,868 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:35:34,868 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:35:34,869 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-12 19:35:34,869 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-12 19:35:34,877 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-12 19:35:34,877 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-12 19:35:34,877 [Worker-33: Launching Product - ProductApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A191\Desktop\Adv_Java\Spring\Product\src\test\resources

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="jquery-3.6.0.js"></script>
+    <script>
+        $(document).ready(()=>{
+            
+            $("#insert").click(()=>{
+                var name = $("$name").val()
+                var cost = $("$cost").val()
+                var description = $("$description").val()
+                var date = $("$date").val()
+                
+                data = {prodName:name,
+                    prodDesc : description,    
+                    prodCost:cost,
+                    expiryDate:date
+                }
+                $.ajax({
+                    url :'http://localhost:8080/product/addProduct',
+                    type:'POST',
+                    data :data,
+                    contentType: 'application/json; charset=utf-8',
+                    success:function(){
+                        $("#dis").append(<h1>Inserted</h1>)
+                    }
+                })   
+            })
+        })
+    </script>
+</head>
+<body>
+    <input type="text" placeholder="Enter Product name" id="name"/> 
+    <input type="number" placeholder="Enter Product cost" id="cost"/> 
+    <input type="text" placeholder="Enter Product description" id="description"/> 
+    <input type="date" placeholder="Enter Product date" id="date"/>
+    <button id="insert">Insert</button> 
+    <div id="dis"></div>
+</body>
+</html>

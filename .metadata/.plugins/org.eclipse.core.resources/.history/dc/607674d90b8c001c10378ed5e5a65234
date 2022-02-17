@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.js"></script>
+    <script>
+        $(document).ready(()=>{
+            console.log("here")
+            $("#insert").click(()=>{
+                var name = $("$name").val()
+                var cost = $("$cost").val()
+                var description = $("$description").val()
+                var date = $("$date").val()
+                
+                data = {"prodName":name,
+                    "prodDesc" : description,    
+                    "prodCost":cost,
+                    "expiryDate":date
+                }
+                console.log("you are here 2")
+                $.ajax({
+                    url :'/product/addProduct',
+                    type:'POST',
+                    data :JSON.stringify(data),
+                   beforeSend:function(req,setting){
+                       req.setRequestHeader("Content-Type","application/json")
+                   },
+                    success:function(data){
+                        $("#dis").append("<h1>Inserted</h1>")
+                    }
+                })   
+            })
+            $("#getAll").click(()=>{
+             	console.log("you are here ")
+                $.ajax({
+                    url:'/product/getAllProduct',
+                    type:'GET',
+                    success:function(date){
+                        var t = $(`<table border='5'></table>`)
+                        for(var i=0; i<data.length;i++)
+                        {
+                            t.append(`<tr><td> ${data[i].id}</td> <td>${data[i].prodName}</td> <td>${data[i].prodDesc}</td> <td>${data[i].expiryDate}</td></tr> `)
+                        }
+                    }
+                })
+            })
+        })
+    </script>
+</head>
+<body>
+    <input type="text" placeholder="Enter Product name" id="name"/> 
+    <input type="number" placeholder="Enter Product cost" id="cost"/> 
+    <input type="text" placeholder="Enter Product description" id="description"/> 
+    <input type="date" placeholder="Enter Product date" id="date"/>
+    <button id="insert">Insert</button> 
+    <button id="getAll">GetAll</button>
+    <div id="dis"></div>
+</body>
+</html>
